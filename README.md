@@ -1,16 +1,13 @@
-### Hi there 👋
+### What's Up?
 
-<!--
-**yretrut/yretrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About ME:
+  - I am a student of DGTU
+  - I'm stupid
+  - i'm trying not to be dumb
+  - I just started learning languages and I don't care that I'm 21
 
-Here are some ideas to get you started:
+Contact ME:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yretrut)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stupid_fo)
+[![VK](https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/stupid_fo)
