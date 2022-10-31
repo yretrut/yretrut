@@ -1,7 +1,5 @@
 ### What's Up?
-![](https://media.discordapp.net/attachments/823960792973049886/823961019238842378/image0.gif)
-![](https://media.discordapp.net/attachments/823960792973049886/823961019238842378/image0.gif)
-![](https://media.discordapp.net/attachments/823960792973049886/823961019238842378/image0.gif)
+![](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
 
 About ME:
   - I am a student of DGTU
